@@ -1,0 +1,9 @@
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe.config
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.pdb
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Properties.Resources.resources
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.GenerateResource.cache
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
+C:\Users\Leonel\OneDrive\Documentos\visual studio\3 ciclo\banco\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb
